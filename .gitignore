@@ -1,0 +1,7 @@
+node_modules/
+screenshots/
+zoom_bots.log
+.env
+retry_names.txt
+launch_detached.js
+start_bots.bat
